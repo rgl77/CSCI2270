@@ -1,2 +1,1 @@
-# CSCI2270
-CSCI2270 - Spring 2017
+# Spring 2017 - CSCI2270 - Data Structures
